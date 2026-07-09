@@ -1,6 +1,6 @@
 # Trading Order Matching Engine
 
-![CI](https://github.com/YOUR_USERNAME/order-matching-engine/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Abhishekary/order-matching-engine/actions/workflows/ci.yml/badge.svg)
 
 A low-latency, in-memory limit order book and matching engine in C++17,
 implementing price-time priority execution for Market and Limit orders.
